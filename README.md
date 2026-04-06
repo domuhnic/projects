@@ -2,6 +2,8 @@
 
 ## Data Analytics
 
+ Quantium Data Analytics - End-to-end data analytics used to derive insights from product and customer data (https://github.com/domuhnic/Quantium-Data-Analytics)
+
  Daily Grind (Sales Data) - A dashboard in PowerBI using order data, product data, and customer data (https://github.com/domuhnic/dailygrind)
 
  Tata Consultancy Services Job Simulation - A job simulation involving creating data visualization for Tata Consultancy Services (https://github.com/domuhnic/Tata-Data-Visualization?tab=readme-ov-file#tata-data-visualization)
