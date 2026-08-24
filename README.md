@@ -2,6 +2,8 @@
 
 ## Data Analytics
 
+ Boston Consulting Group (BCG) Data Science Job Simulation - End-to-end data science project used to identify churners for a client (https://github.com/domuhnic/BCG-Data-Science-Job-Simulation)
+
  Quantium Data Analytics - End-to-end data analytics used to derive insights from product and customer data (https://github.com/domuhnic/Quantium-Data-Analytics)
 
  Daily Grind (Sales Data) - A dashboard in PowerBI using order data, product data, and customer data (https://github.com/domuhnic/dailygrind)
